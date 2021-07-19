@@ -20,7 +20,7 @@ var studentList = [
     età: 21,
   },
   {
-    nome: "Luca",
+    nome: "Luchino",
     cognome: "Giaccone",
     età: 21,
   },
